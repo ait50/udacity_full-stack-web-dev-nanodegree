@@ -112,7 +112,14 @@ DELETE | | DROP TABLE | RIGHT JOIN
   <img src="https://github.com/cintia-shinoda/udacity_full-stack-web-dev-nanodegree/blob/master/images/q-2-4-3.png" alt="q3"/>
 <br><br><br>
 
+### SQL Practice Exercises
+
 
 ## 5. Execution Plan
+### Quiz Question
+<p align="center">
+  <img src="https://github.com/cintia-shinoda/udacity_full-stack-web-dev-nanodegree/blob/master/images/q-2-5.png" alt="quiz">
 
+### On Performance
 
+## 6. Client-Server Model

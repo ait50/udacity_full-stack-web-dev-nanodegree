@@ -17,7 +17,7 @@
 | | Module | Lessons |
 :---:|:--- | :--- |
 &check; | Module 1 - Welcome to the Program! | <li>[x] Lesson 1 - Welcome to the Full-Stack Web Developer Nanodegree Program</li> |
-| | Module 2 - SQL and Data Modeling | <ul><li>[x] Lesson 1 - Course Introduction</li><li>[ ] Lesson 2 - Interacting with Databases</li><li>[ ] Lesson 3 - SQLAlchemy Basics</li><li>[ ] Lesson 4 - SQLAlchemy ORM in Depth</li><li>[ ] Lesson 5 - Build a CRUD App with SQLAlchemy - Part 1</li><li>[ ] Lesson 6 - Migrations</li><li>[ ] Lesson 7 - Build a CRUD App with SQLAlchemy ORM - Part 2</li><li>[ ] Project: Fyyur</li></ul>
+| | Module 2 - SQL and Data Modeling for the Web | <ul><li>[x] Lesson 1 - Course Introduction</li><li>[ ] Lesson 2 - Interacting with Databases</li><li>[ ] Lesson 3 - SQLAlchemy Basics</li><li>[ ] Lesson 4 - SQLAlchemy ORM in Depth</li><li>[ ] Lesson 5 - Build a CRUD App with SQLAlchemy - Part 1</li><li>[ ] Lesson 6 - Migrations</li><li>[ ] Lesson 7 - Build a CRUD App with SQLAlchemy ORM - Part 2</li><li>[ ] Project: Fyyur</li></ul>
 | | Module 3 - API Development and Documentation | 
 
 

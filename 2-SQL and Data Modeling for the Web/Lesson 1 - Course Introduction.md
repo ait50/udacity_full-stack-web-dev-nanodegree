@@ -1,21 +1,23 @@
 # Lesson 1 - Course Introduction
 
 ## 1. Course Overview & Project
+instructor: Amy Hua
 - how to *Create, Read, Update, and Delete (CRUD)* operations
 - how to apply these operations across both *databases* and *web applications*
 - how to set up *relationships* between elements of an application
 - how to think about important principles and patterns in building *data models* for a web application
 
 ### Final Project: Fyyur
-
+<br><br>
 
 ## 2. Prerequisites & Tech Stack
+### Prerequisites
 - basic programming in Python
 - front-end web development (HTML, CSS, Javascript)
 - terminal command basics
-- SQL and relational databases
+- SQL and Relational Databases
 
-here is the tech stack that will be gained proficiency in:
+### Tech Stack that will be gained proficiency in:
 - Python 3
 - Flask
 - PostgresSQL
@@ -23,14 +25,34 @@ here is the tech stack that will be gained proficiency in:
 - SQLAlchemy
 - Flask-SQLAlchemy
 
-- having the right expectations
+### Non-technical prerequisites
+- having the right expectations ([growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means))
 - sculpting out the time
-- strategies for being proactive in your learning
+- being proactive in your learning
+    - [interviewing.io](https://interviewing.io/)
+    - [leetcode](https://leetcode.com/)
+    - [coffeetivity](https://coffitivity.com/)
+    - [state of flow](https://www.verywellmind.com/what-is-flow-2794768)
+    - [sleep hygiene](https://www.sleepfoundation.org/articles/sleep-hygiene)
+- this is a marathon, not a sprint
+    - [don't beat yourself up too much for not getting everything right away](https://medium.com/@samyj13/the-most-overused-saying-its-a-marathon-not-a-sprint-776a7103fe66)
+<br><br>
 
 ## 3. Required Software
+### Required Tools
 1. a code editor
 2. a command-line interface (CLI)
 3. Python v3.7+ and Python package manager ```pip```
 4. a web browser
+<br><br>
 
 ## 4. uLab Workspace Overview
+Each workspace is a Linux virtual machine with sufficient computing resources running exclusively for you somewhere in the cloud.
+
+All your work is being stored in the ```/home/workspace/``` directory on the virtual machine. 
+
+Any file stored outside it  will be deleted after rebooting.
+
+Keep the total contents of the directory to 3GB or less, and don't store any individual files  1.5GB.
+
+You can store logs or checkpoints files in ```/opt/``` directory, however, this too will be deleted once your seession becomes idle.
