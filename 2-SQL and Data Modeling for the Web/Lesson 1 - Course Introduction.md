@@ -21,7 +21,7 @@ instructor: Amy Hua
 - Python 3
 - Flask
 - PostgresSQL
-- psycop2
+- psycopg2
 - SQLAlchemy
 - Flask-SQLAlchemy
 
