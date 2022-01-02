@@ -1,13 +1,18 @@
 # Lesson 1 - Course Introduction
 
 ## 1. Course Overview & Project
-instructor: Amy Hua
-- how to *Create, Read, Update, and Delete (CRUD)* operations
-- how to apply these operations across both *databases* and *web applications*
-- how to set up *relationships* between elements of an application
+instructor: Amy Hua - SQL and Data Modeling for the Web
+by the end of this course: implement a database-backed To-Do application
+- create, read, updade, and delete to-dos
+- create, read, update, and delete lists of to-dos
+
+this project demonstrates: 
+- how to *Create, Read, Update, and Delete (CRUD)* operations in apps & relational databases
+- how to set up *relationships* between lists and to-do items
 - how to think about important principles and patterns in building *data models* for a web application
 
 ### Final Project: Fyyur
+it's where musical artists can meet musical venues in order for them to find each other
 <br><br>
 
 ## 2. Prerequisites & Tech Stack
@@ -16,6 +21,12 @@ instructor: Amy Hua
 - front-end web development (HTML, CSS, Javascript)
 - terminal command basics
 - SQL and Relational Databases
+
+### to refresh the knowledge above:
+[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+[Front End Web Developer Nanodegree program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+[Shell (Command Line) Workshop](https://classroom.udacity.com/courses/ud206) or [Linux Command Line Basics](https://classroom.udacity.com/courses/ud206)
+[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) and [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 ### Tech Stack that will be gained proficiency in:
 - Python 3
@@ -26,7 +37,9 @@ instructor: Amy Hua
 - Flask-SQLAlchemy
 
 ### Non-technical prerequisites
-- having the right expectations ([growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means))
+- having the right expectations
+the point is not to learn "everything" -- it is about scoping clearly what you want to build next. And then, having the foundations and learning strategies for knowing what you'll need to learn to build that next feature, or fix that next bug.
+    - ([growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means))
 - sculpting out the time
 - being proactive in your learning
     - [interviewing.io](https://interviewing.io/)
@@ -36,6 +49,8 @@ instructor: Amy Hua
     - [sleep hygiene](https://www.sleepfoundation.org/articles/sleep-hygiene)
 - this is a marathon, not a sprint
     - [don't beat yourself up too much for not getting everything right away](https://medium.com/@samyj13/the-most-overused-saying-its-a-marathon-not-a-sprint-776a7103fe66)
+
+
 <br><br>
 
 ## 3. Required Software
