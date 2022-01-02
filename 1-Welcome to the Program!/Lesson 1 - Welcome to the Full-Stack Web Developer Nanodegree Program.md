@@ -1,10 +1,13 @@
 # Welcome to the Full-Stack Web Developer Nanodegree Program
 
 ## 1. Welcome to Udacity
+<br>
 
 ## 2. Welcome to the Nanodegree Program
+<br>
 
 ## 3. Nanodegree Program Introduction
+<br>
 
 ## 4. How to Succed
 ### Goals
@@ -28,7 +31,7 @@
 - remember your goals
 <br>
 
-### Technical Advide
+### Technical Advice
 - coding requires debugging
 - seek solutions
 - look at successful examples
